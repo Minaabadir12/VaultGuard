@@ -1,0 +1,45 @@
+credentials:
+  usernames:
+    demo:
+      name: Demo User
+      email: demo@example.com
+      password: $2b$12$kW2e2k1kArM82sWm0o8Jhe6s4tHwwOZ4yGkQy0Q2b2y0m1mO1k0yK
+    Minaabadir12:
+      name: Mina Abadir
+      email: minaabadir245@gmail.com
+      password: $2b$12$Rk/pBKoCZdac9wV8gu99V.N8smXzNjAlR6TYQ716/BO6Z5OGSFqOW
+    Mariam12:
+      name: Mariam Astafanous
+      email: mina@pacificbest.com
+      password: $2b$12$3b.lPcIaAKzeokx6ysDaB.ch9k0KEZULb93jl1IOAP5e/eqsxoyiW
+    Mariam13:
+      name: Mariam Astafanous
+      email: mariam248@gmail.com
+      password: $2b$12$jjBSeFlbEcN0Pa2/MWFj5eHHCylmhUa2KzsAJD37.wDWZdaUR3WWO
+    Mon12:
+      name: Mina Astafanous
+      email: minaabadir245@gmail.com
+      password: $2b$12$0BEC/EzZfn5Y.06/7h3z..6V9OgX8sqTNi5j/Aq3XPjK6RYh2deoW
+    Mon13:
+      name: Mina Astafanous
+      email: minaabadir245@gmail.com
+      password: $2b$12$fc4r0l0qcWG5pZyKKyXcMuKsEsZsBuNjNwrVuGjDihl9oocM9QaI.
+    Mon14:
+      name: Mina Astafanous
+      email: minaabadir245@gmail.com
+      password: $2b$12$NTNonDcDGiRkjvyTqzr4Req/Rhtj.toCFR9zycUhrxbj28I7nw7rW
+    Sena12:
+      name: John Sena
+      email: Sena256@gmail.com
+      password: $2b$12$yreXaWAgzZuHKXnH2PykPudZA8iaI/Y.w6P.BFk9EFAQkDPTTEEn.
+    Sena13:
+      name: John Sena
+      email: Sena256@gmail.com
+      password: $2b$12$rszwqRnVHwBcSj4R/KCLK.ty1UjHgdKAg0Hf0eWAQjU.WiNiYk5x2
+cookie:
+  name: safepass_auth
+  key: super-secret-key-change-me
+  expiry_days: 7
+preauthorized:
+  emails:
+  - you@example.com
